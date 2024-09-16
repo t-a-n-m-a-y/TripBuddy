@@ -1,4 +1,4 @@
-# TripBuddy Web Service Project
+# TripBuddy Project
 
 This project aims to create an auto-balancing web server hosting a REST-based web service.  
 The server is run on a virtual machine, which undergoes live migration to another physical machine as the increasing load (client requests to the web server) causes the CPU load to exceed a certain threshold.
