@@ -5,7 +5,8 @@ Below are the instructions to run the web service called TripBuddy, which aims t
 
 **Instructions to compile, test and run ProjectX TripBuddy Code**
 
-1) Make sure to install Maven 3.1 and Java 1.7, and update paths to point to mvn and java. Set Maven to use the IIITA proxy, if required. Set the JAVA_HOME and M2_HOME environment variables to point to your Java and Maven base folders. Make sure java, javac and mvn are in your execution path.
+1) Make sure to install Maven 3.1 and Java 1.7, and update paths to point to mvn and java. Set Maven to use the IIITA proxy, if required. Set the JAVA_HOME and M2_HOME environment variables to point to your Java and Maven base folders.
+Make sure java, javac and mvn are in your execution path.
 
 2) Compile and run TripBuddy REST Web Service on "host1", passing the hostname of your machine as param
 _cd cities/projectX
